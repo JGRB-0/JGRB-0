@@ -1,4 +1,4 @@
-# 🤖 João Gabriel
+# 👨‍💻 João Gabriel
 
 **`Desenvolvedor FrontEnd`**
 

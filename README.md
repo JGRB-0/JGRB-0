@@ -1,4 +1,4 @@
-# 👨‍💻 João Gabriel
+# 🤖 João Gabriel
 
 **`Desenvolvedor FrontEnd`**
 
@@ -52,6 +52,13 @@ Durante minha formação, desenvolvi diversos projetos práticos envolvendo elet
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     alt="MongoDB"
